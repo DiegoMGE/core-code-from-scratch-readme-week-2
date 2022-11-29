@@ -4,7 +4,7 @@
 - [Logic Problems](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-2/edit/main/README.md#logic-problem)
 - [Cereal vs Milk](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-2/edit/main/README.md#cereal-vs-milk)
 
-## Logic Problem
+## Logic Problem 😵‍💫🧠
 If Alice is telling the truth, nobody studied including her, if not, she studied, but doesn't make sense what she said, is illogical.
 
 If Bob is telling the truth, only one person studied and might be him, if not, he doesn't studied and doesn't know if someone did it or not.
@@ -13,4 +13,19 @@ If Charlie is telling the truth, only two people studied, but if he's lying, Dan
 
 So, probably only Bob is telling the truth!
 
-## Cereal vs Milk
+## Cereal vs Milk 🌽🥛
+```
+Start;
+Check if there is cereal, liquid milk and sugar;
+    if not;
+        buy;
+Add liquid milk in a glass;
+Add 1 spoon with sugar to the milk glass;
+Mix milk and sugar in glass and save it into a variable named mixed;
+Place a bowl in table;
+Add cereal to bowl;
+Add mixed to bowl;
+Enjoy with a movie;
+End;
+```
+![flowchart](https://i.imgur.com/2W8BmcU.png)
