@@ -31,8 +31,8 @@ End;
 ![flowchart](https://i.imgur.com/2W8BmcU.png)
 
 ### Tuesday Challenges
-- [Print my name]()
-- [Print my name and age]()
+- [Print my name](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-2/blob/main/README.md#print-my-name)
+- [Print my name and age](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-2/blob/main/README.md#print-my-name--age)
 ## Print my name
 ```
 Algoritmo myName
