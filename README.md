@@ -29,3 +29,24 @@ Enjoy with a movie;
 End;
 ```
 ![flowchart](https://i.imgur.com/2W8BmcU.png)
+
+### Tuesday Challenges
+- [Print my name]()
+- [Print my name and age]()
+## Print my name
+```
+Algoritmo myName
+	name <- 'Diego Orellana'
+	Imprimir name
+FinAlgoritmo
+```
+
+## Print my name & age
+```
+Algoritmo myNameAndAge
+	name <- 'Diego Orellana'
+	age <- 27
+	Imprimir 'Mi nombre es ' name ' y tengo ' age ' años!'
+FinAlgoritmo
+```
+.
