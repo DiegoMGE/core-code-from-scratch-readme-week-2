@@ -49,4 +49,47 @@ Algoritmo myNameAndAge
 	Imprimir 'Mi nombre es ' name ' y tengo ' age ' años!'
 FinAlgoritmo
 ```
+
+### Wednesday Challenges
+- [Algorithm Game](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-2/blob/main/README.md#algorithm-game)
+- [Mod](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-2/blob/main/README.md#mod)
+- [Register form](https://github.com/DiegoMGE/core-code-from-scratch-readme-week-2/blob/main/README.md#register-form)
+
+## Algorithm Game
+![image](https://user-images.githubusercontent.com/88050715/204935143-177bda70-3259-4f64-8c3b-0ec4a2011f76.png)
+
+## Mod
+```
+Algoritmo evenOdd
+	mod <- 2
+	Leer userNum
+	result <- userNum % mod
+	Imprimir result
+FinAlgoritmo
+```
+
+## Register Form
+```
+Algoritmo userForm
+	Imprimir '======= USER DATA ======='
+	Imprimir 'First name '
+	Leer Firstname
+	Imprimir 'Last name '
+	Leer lastName
+	Imprimir 'Age '
+	Leer age 
+	Imprimir 'Email '
+	Leer email
+	Imprimir 'Address '
+	Leer address
+	Imprimir '======= USER DATA ======='
+	Imprimir 'Full Name: ' Firstname ' ' lastName
+	Imprimir 'Age: ' age
+	Imprimir 'email: ' email
+	Imprimir 'Address: ' address
+	Imprimir '========================='
+FinAlgoritmo
+```
+
+
 .
