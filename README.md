@@ -131,6 +131,18 @@ FinAlgoritmo
 ```
 
 ## Identify odd and even numbers
-
+```
+Algoritmo detectEvenOdd
+	mod <- 2
+	Imprimir 'Ingrese número a verificar'
+	Leer userNum
+	result <- userNum % mod
+	Si result = 0 Entonces
+		Imprimir "Número: " userNum " es par."
+	SiNo
+		Imprimir "Número: " userNum " es impar."
+	FinSi
+FinAlgoritmo
+```
 
 .
