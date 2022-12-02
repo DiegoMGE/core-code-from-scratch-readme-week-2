@@ -90,6 +90,18 @@ Algoritmo userForm
 	Imprimir '========================='
 FinAlgoritmo
 ```
+### Thursday Challenges
+- [Truth tables]()
+- [Boolean results]()
+- [Identify odd and even numbers]()
+
+## Truth tables
+
+
+## Boolean results
+
+
+## Identify odd and even numbers
 
 
 .
