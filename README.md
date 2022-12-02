@@ -113,7 +113,22 @@ FinAlgoritmo
 
 
 ## Boolean results
-
+```
+Algoritmo boolean
+	a <- 5 == 3
+	// 5 is equal to 3
+	b <- 4 <> 3
+	// 4 is different from 3
+	c <- 7 > 7
+	// 7 is greater than 7
+	d <- 4 < 4
+	// 4 is less than 4
+	e <- 100 <= 90
+	// 100 is less or equal to 90
+	f <- 40 >= 40
+	// 40 is greater or equal than 40
+FinAlgoritmo
+```
 
 ## Identify odd and even numbers
 
